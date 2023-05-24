@@ -1,3 +1,6 @@
+//This code is used the change or update the name of department 
+// using a procedure call
+
 Delimiter $$
 create procedure Staff_dept(IN e int, IN s varchar(30))
 Begin 
